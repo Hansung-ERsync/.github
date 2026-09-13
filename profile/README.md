@@ -58,7 +58,7 @@ flowchart LR
 
 ## 시스템 구성도
 
-[![ERSync 전체 시스템 구성도: 구급대원 앱, 슈퍼 관리자 웹, 병원 웹을 Spring Boot 백엔드와 연결하고 NAVER Directions 및 MySQL을 연동하는 구조](assets/ersync-system-architecture.png)](assets/ersync-system-architecture.png)
+[![ERSync 시스템 구성도](../assets/ersync-system-architecture.png)](../assets/ersync-system-architecture.png)
 
 이미지를 클릭하면 원본 크기로 확인할 수 있습니다.
 
