@@ -66,12 +66,12 @@ flowchart LR
 
 | 영역 | 주요 기술 |
 | :--- | :--- |
-| 모바일 | Flutter · Dart |
-| 웹 | React · TypeScript · Next.js App Router · Vinext |
-| 백엔드 | Java · Spring Boot · Spring Security · Spring Data JPA |
-| 데이터·통신 | MySQL · Flyway · REST API · SSE |
-| 지도 | NAVER Maps Directions API |
-| 배포 구성 | GitHub Actions · Cloudflare Workers · Docker · Nginx · AWS ECR / EC2 / RDS |
+| 모바일 | ![Flutter · Dart](https://skillicons.dev/icons?i=flutter,dart)<br/>Flutter · Dart |
+| 웹 | ![React · TypeScript · Next.js](https://skillicons.dev/icons?i=react,ts,nextjs)<br/>React · TypeScript · Next.js App Router · Vinext |
+| 백엔드 | ![Java · Spring](https://skillicons.dev/icons?i=java,spring)<br/>Java · Spring Boot · Spring Security · Spring Data JPA |
+| 데이터·통신 | ![MySQL](https://skillicons.dev/icons?i=mysql)<br/>MySQL · Flyway · REST API · SSE |
+| 지도 | ![NAVER Maps](https://img.shields.io/badge/NAVER_Maps-03C75A?style=for-the-badge&logo=naver&logoColor=white)<br/>NAVER Maps Directions API |
+| 배포 구성 | ![GitHub Actions · Cloudflare · Docker · Nginx · AWS](https://skillicons.dev/icons?i=githubactions,cloudflare,docker,nginx,aws)<br/>GitHub Actions · Cloudflare Workers · Docker · Nginx · AWS ECR / EC2 / RDS |
 
 ## 저장소
 
