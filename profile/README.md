@@ -83,7 +83,7 @@ flowchart LR
 
 ## 개발 팀
 
-| 이름 | GitHub | 담당 역할 | 주요 기여 |
+| 이름 | GitHub | 담당 역할 |
 | :--- | :--- | :--- | :--- |
 | **김민서** | [@eric91405](https://github.com/eric91405) | 팀장 · 웹 프론트엔드 · 디자인 |
 | **김병철** | [@ldzb](https://github.com/ldzb) | 백엔드 |
