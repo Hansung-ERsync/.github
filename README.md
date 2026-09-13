@@ -87,10 +87,10 @@ flowchart LR
 
 | 이름 | GitHub | 담당 역할 | 주요 기여 |
 | :--- | :--- | :--- | :--- |
-| **김민서** | [@eric91405](https://github.com/eric91405) | 팀장 · 웹 프론트엔드 · 디자인 | 팀 운영, 병원·관리자 웹 개발 및 디자인 |
-| **김현섭** | [@hyunseop827](https://github.com/hyunseop827) | 백엔드 · DevOps · 프로젝트 조율 | 백엔드 설계·개발, 개발·배포 환경 구축, 개발 방향과 진행 조율 |
-| **김병철** | [@ldzb](https://github.com/ldzb) | 백엔드 | AI 에이전트를 활용한 백엔드 구현 |
-| **최원재** | [@chldnjswo](https://github.com/chldnjswo) | 모바일 앱 · 디자인 | Flutter 구급대원 앱 개발 및 디자인 |
+| **김민서** | [@eric91405](https://github.com/eric91405) | 팀장 · 웹 프론트엔드 · 디자인 |
+| **김병철** | [@ldzb](https://github.com/ldzb) | 백엔드 |
+| **김현섭** | [@hyunseop827](https://github.com/hyunseop827) | 백엔드 · DevOps |
+| **최원재** | [@chldnjswo](https://github.com/chldnjswo) | 모바일 앱 · 디자인 | 
 
 ## 설계 원칙
 
