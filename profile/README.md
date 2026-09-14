@@ -19,6 +19,12 @@
 
 ---
 
+## 데모 영상
+
+<a href="[https://www.youtube.com/watch?v=KsKTnp1AZuo](https://www.youtube.com/watch?v=9WLYV62Xhmg)">
+</a>
+
+
 ## 프로젝트 소개
 
 응급환자 이송에는 환자의 현재 상태와 병원의 수용 가능 여부를 신속하게 공유하는 과정이 필요합니다.
