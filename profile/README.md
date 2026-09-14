@@ -11,7 +11,7 @@
 
 환자 정보 전달부터 병원 수용 응답, 이송과 인계까지 함께 연결하는 응급환자 이송 협업 시스템
 
-**한성대학교 · MVP 개발 프로젝트**
+**한성인팀 · 일경험 프로젝트 **
 
 [구급대원 앱](https://github.com/Hansung-ERsync/ersync-front-app) · [병원·관리자 웹](https://github.com/Hansung-ERsync/ersync-front-web) · [백엔드](https://github.com/Hansung-ERsync/ersync-backend)
 
@@ -21,9 +21,11 @@
 
 ## 데모 영상
 
-<a href="[https://www.youtube.com/watch?v=KsKTnp1AZuo](https://www.youtube.com/watch?v=9WLYV62Xhmg)">
+<a href="https://www.youtube.com/watch?v=9WLYV62Xhmg">
+  <img src="https://img.youtube.com/vi/9WLYV62Xhmg/hqdefault.jpg"
+       alt="ERSync 데모 영상"
+       width="640" />
 </a>
-
 
 ## 프로젝트 소개
 
